@@ -36,3 +36,6 @@
       with_items: ec2.instances
 
 - include: jenkins.yaml
+
+hi hello git merge
+this is to test
